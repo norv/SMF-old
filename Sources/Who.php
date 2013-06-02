@@ -547,13 +547,23 @@ function Credits($in_admin = false)
 				array(
 					'title' => $txt['credits_groups_dev'],
 					'members' => array(
-						// Developers
+ 						// Developers
+						'Aaron van Geffen',
+						'Antechinus',
+						'Bjoern &quot;Bloc&quot; Kristiansen',
 						'emanuele',
-						'Joshua &quot;groundup&quot; Dickerson',
+						'Hendrik Jan &quot;Compuart&quot; Visser',
+						'Juan &quot;JayBachatero&quot; Hernandez',
+						'Karl &quot;RegularExpression&quot; Benson',
+						$user_info['is_admin'] ? 'Matt &quot;Grudge&quot; Wolf': 'Grudge',
 						'Matthew &quot;Labradoodle-360&quot; Kerle',
-						'Norv',
-						'Steven &quot;Fustrate&quot; Hoffman',
-						'Spuds',
+						'Michael &quot;Thantos&quot; Miller',
+						// 'Norv', // prefers to not be listed
+						'Selman &quot;[SiNaN]&quot; Eser', // did not want to be listed in the past
+						// 'Spuds', // doesn't want to be listed here
+						'Theodore &quot;Orstio&quot; Hildebrandt',
+						'Thorsten &quot;TE&quot; Eurich',
+						'winrules',
 					),
 				),
 				array(
@@ -579,6 +589,7 @@ function Credits($in_admin = false)
 					'members' => array(
 						// Customizers
 						'bluedevil',
+						'Brad &quot;IchBin&trade;&quot; Grow',
 						'Bugo',
 						'Colin &quot;Colin&quot; Schoen',
 						'Gary M. Gadsdon',
@@ -593,6 +604,7 @@ function Credits($in_admin = false)
 					'members' => array(
 						// Doc Writers
 						'AngelinaBelle',
+						'Joshua &quot;groundup&quot; Dickerson',
 						'Michele &quot;Illori&quot; Davis',
 						'Trekkie101',
 					),
@@ -651,10 +663,10 @@ function Credits($in_admin = false)
 			array(
 				'title' => $txt['credits_groups_consultants'],
 				'members' => array(
-					'&nbsp;',
-					//'Brett Flannigan',
-					//'Mark Rose',
-					//'Ren&eacute;-Gilles &quot;Nao &#23578;&quot; Deberdt',
+					'Brett Flannigan',
+					'Mark Rose',
+					'Ren&eacute;-Gilles &quot;Nao &#23578;&quot; Deberdt',
+					'Steven &quot;Fustrate&quot; Hoffman',
 				),
 			),
 			array(
