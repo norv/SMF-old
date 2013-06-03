@@ -594,6 +594,7 @@ function Credits($in_admin = false)
 						'Colin &quot;Colin&quot; Schoen',
 						'Gary M. Gadsdon',
 						'Jack &quot;akabugeyes&quot; Thorsen',
+						'Jessica Gonz&aacute;lez',
 						'Kays',
 						'Rick &quot;Yoshi&quot; Kerkhof',
 						'Ricky.',
