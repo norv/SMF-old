@@ -556,7 +556,6 @@ function Credits($in_admin = false)
 						'Juan &quot;JayBachatero&quot; Hernandez',
 						'Karl &quot;RegularExpression&quot; Benson',
 						$user_info['is_admin'] ? 'Matt &quot;Grudge&quot; Wolf': 'Grudge',
-						'Matthew &quot;Labradoodle-360&quot; Kerle',
 						'Michael &quot;Thantos&quot; Miller',
 						// 'Norv', // prefers to not be listed
 						'Selman &quot;[SiNaN]&quot; Eser', // did not want to be listed in the past
@@ -596,6 +595,7 @@ function Credits($in_admin = false)
 						'Jack &quot;akabugeyes&quot; Thorsen',
 						'Jessica Gonz&aacute;lez',
 						'Kays',
+						'Matthew &quot;Labradoodle-360&quot; Kerle',
 						'Rick &quot;Yoshi&quot; Kerkhof',
 						'Ricky.',
 					),
